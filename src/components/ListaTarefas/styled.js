@@ -68,6 +68,8 @@ export const Tarefa = styled.li`
   }
 `;
 
+
+
 export const LinhaHorizontal = styled.hr`
   width: 100%;
   margin: 16px;
